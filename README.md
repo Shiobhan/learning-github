@@ -7,7 +7,7 @@ A repo created for ResBaz 2019
 
 **bold me**
 
-~strike me~
+~~strike me~~
 
 ____________
 
